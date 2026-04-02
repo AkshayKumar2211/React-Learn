@@ -93,7 +93,7 @@ function App() {
                   aria-hidden="true"
                 >
                   <use href="/icons.svg#x-icon"></use>
-                </svg>
+                </svg>         
                 X.com
               </a>
             </li>

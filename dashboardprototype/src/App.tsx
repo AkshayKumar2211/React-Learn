@@ -1,13 +1,13 @@
-import Sidebar from "./components/sidebar"
+import Card from "./components/card"
+
 
 
 
 function App() {
 
   return (
-    <div className="flex flex-1">
-    <Sidebar/>
-    <h1>Begin building a dashboard</h1>
+    <div className="flex h-screen w-screen items-center justify-center">
+    <Card/>
     </div>
   )
 }
